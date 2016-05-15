@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://sushantdhiman.github.io/2016/05/15/first-post/</loc>
+    <loc>http://sushantdhiman.github.io/2016/05/15/hexo-as-blog/</loc>
     
-    <lastmod>2016-05-14T18:40:41.298Z</lastmod>
+    <lastmod>2016-05-15T08:22:31.244Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://sushantdhiman.github.io/about/index.html</loc>
+    
+    <lastmod>2016-05-15T07:43:54.308Z</lastmod>
     
   </url>
   

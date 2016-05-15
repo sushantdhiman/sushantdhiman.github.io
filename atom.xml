@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sushantdhiman.github.io/"/>
-  <updated>2016-05-14T18:40:41.298Z</updated>
+  <updated>2016-05-15T08:22:31.244Z</updated>
   <id>http://sushantdhiman.github.io/</id>
   
   <author>
@@ -16,26 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://sushantdhiman.github.io/2016/05/15/first-post/"/>
-    <id>http://sushantdhiman.github.io/2016/05/15/first-post/</id>
-    <published>2016-05-14T18:40:41.298Z</published>
-    <updated>2016-05-14T18:40:41.298Z</updated>
+    <title>How to use Hexo as your blog ? (Part 1)</title>
+    <link href="http://sushantdhiman.github.io/2016/05/15/hexo-as-blog/"/>
+    <id>http://sushantdhiman.github.io/2016/05/15/hexo-as-blog/</id>
+    <published>2016-05-15T04:30:00.000Z</published>
+    <updated>2016-05-15T08:22:31.244Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;Recently I wanted to change my Github page to a blog. I was looking for some automated options, where I don’t have to build yet another blog. But I wanted it to be simple and minimalistic.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Github do provide an option of &lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Jekyll&lt;/a&gt;. It looks really cool but I am not much familiar with Ruby language yet. I wanted something that I could tweak easily.&lt;/p&gt;
+&lt;p&gt;So I started looking for something in Node realm. Then I found &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;, its simple to setup and use. Its like Jekyll in JavaScript.&lt;/p&gt;
+&lt;p&gt;Let see how you can setup your first blog.&lt;/p&gt;
+&lt;h2 id=&quot;Installing-and-Creating&quot;&gt;&lt;a href=&quot;#Installing-and-Creating&quot; class=&quot;headerlink&quot; title=&quot;Installing and Creating&quot;&gt;&lt;/a&gt;Installing and Creating&lt;/h2&gt;&lt;p&gt;Hexo is available as a &lt;code&gt;CLI&lt;/code&gt; by using &lt;code&gt;npm&lt;/code&gt;. Lets install this package for global use.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install -g hexo-cli&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Once Hexo CLI has been installed, command &lt;code&gt;hexo&lt;/code&gt; will be available. Now its time to create a new blog. Its simple as this command.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo init my-blaggg&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Hexo will create a folder called &lt;code&gt;my-blaggg&lt;/code&gt;. New version of Hexo does &lt;code&gt;npm install&lt;/code&gt; itself. Basically your blog is now ready for creating new posts.&lt;/p&gt;
+&lt;h2 id=&quot;Configure&quot;&gt;&lt;a href=&quot;#Configure&quot; class=&quot;headerlink&quot; title=&quot;Configure&quot;&gt;&lt;/a&gt;Configure&lt;/h2&gt;&lt;p&gt;Before starting we should at least change name of our blog. This can be done by modifying a file called &lt;code&gt;_config.yml&lt;/code&gt;, you can find it under &lt;code&gt;my-blaag&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;It offers various option to configure but we will start with basics. We need to change the &lt;code&gt;name&lt;/code&gt; and &lt;code&gt;timezone&lt;/code&gt; for now.&lt;/p&gt;
+&lt;p&gt;Timezone can be any valid &lt;a href=&quot;http://momentjs.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;moment.js&lt;/a&gt; timezone string. Whole list of timezone is available &lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_tz_database_time_zones&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Installing-a-theme&quot;&gt;&lt;a href=&quot;#Installing-a-theme&quot; class=&quot;headerlink&quot; title=&quot;Installing a theme&quot;&gt;&lt;/a&gt;Installing a theme&lt;/h2&gt;&lt;p&gt;Hexo supports plugins and themes. I myself didn’t like the stock theme very much. Here are various &lt;a href=&quot;https://hexo.io/themes/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;themes&lt;/a&gt; that Hexo community provides.&lt;/p&gt;
+&lt;p&gt;After you have selected any theme you have to clone it under your &lt;code&gt;themes&lt;/code&gt; folder. Under your blog directory you can run this command.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;clone&lt;/span&gt; https://github.com/sushantdhiman/hexo-theme-apollo themes/apollo&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;This will clone my blog’s current theme to your local blog. Now you have to change config settings to use this new theme.&lt;/p&gt;
+&lt;p&gt;Under your blog’s (not your theme’s config) &lt;code&gt;_config.yml&lt;/code&gt; you have to change the &lt;code&gt;theme&lt;/code&gt; parameter to &lt;code&gt;apollo&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Local-development&quot;&gt;&lt;a href=&quot;#Local-development&quot; class=&quot;headerlink&quot; title=&quot;Local development&quot;&gt;&lt;/a&gt;Local development&lt;/h2&gt;&lt;p&gt;Now you can view your blog by running this simple command.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo serve&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;This will serve the blog on &lt;code&gt;localhost:4000&lt;/code&gt;, Open this url in your browser to checkout you new Hexo blog.&lt;/p&gt;
+&lt;h2 id=&quot;Next&quot;&gt;&lt;a href=&quot;#Next&quot; class=&quot;headerlink&quot; title=&quot;Next&quot;&gt;&lt;/a&gt;Next&lt;/h2&gt;&lt;p&gt;We will learn how to create posts and pages. We will also setup Hexo git deployment tool.&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Recently I wanted to change my Github page to a blog. I was looking for some automated options, where I don’t have to build yet another blog. But I wanted it to be simple and minimalistic.&lt;br&gt;
     
     </summary>
     
