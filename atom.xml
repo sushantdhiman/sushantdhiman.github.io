@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sushantdhiman.github.io/"/>
-  <updated>2016-05-27T14:36:30.270Z</updated>
+  <updated>2016-05-27T14:37:24.110Z</updated>
   <id>http://sushantdhiman.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo-as-blog-2</title>
+    <title>How to use Hexo as your blog ? (Part 2)</title>
     <link href="http://sushantdhiman.github.io/2016/05/27/hexo-as-blog-2/"/>
     <id>http://sushantdhiman.github.io/2016/05/27/hexo-as-blog-2/</id>
     <published>2016-05-27T14:09:43.000Z</published>
-    <updated>2016-05-27T14:36:30.270Z</updated>
+    <updated>2016-05-27T14:37:24.110Z</updated>
     
     <content type="html">&lt;p&gt;In last &lt;a href=&quot;/2016/05/15/hexo-as-blog&quot;&gt;post&lt;/a&gt; we learn how to setup a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;. Now we will see how we can configure it further.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Just like any blogging platform we need hexo to create posts for us. Lets learn how to do that.&lt;/p&gt;
 &lt;h2 id=&quot;Creating-Post&quot;&gt;&lt;a href=&quot;#Creating-Post&quot; class=&quot;headerlink&quot; title=&quot;Creating Post&quot;&gt;&lt;/a&gt;Creating Post&lt;/h2&gt;&lt;p&gt;Once your blog is ready creating a post is really easy. You can run this command to create an empty post.&lt;/p&gt;
