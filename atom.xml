@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sushantdhiman.github.io/"/>
-  <updated>2016-05-15T08:22:31.244Z</updated>
+  <updated>2016-05-27T14:36:30.270Z</updated>
   <id>http://sushantdhiman.github.io/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo-as-blog-2</title>
+    <link href="http://sushantdhiman.github.io/2016/05/27/hexo-as-blog-2/"/>
+    <id>http://sushantdhiman.github.io/2016/05/27/hexo-as-blog-2/</id>
+    <published>2016-05-27T14:09:43.000Z</published>
+    <updated>2016-05-27T14:36:30.270Z</updated>
+    
+    <content type="html">&lt;p&gt;In last &lt;a href=&quot;/2016/05/15/hexo-as-blog&quot;&gt;post&lt;/a&gt; we learn how to setup a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;. Now we will see how we can configure it further.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Just like any blogging platform we need hexo to create posts for us. Lets learn how to do that.&lt;/p&gt;
+&lt;h2 id=&quot;Creating-Post&quot;&gt;&lt;a href=&quot;#Creating-Post&quot; class=&quot;headerlink&quot; title=&quot;Creating Post&quot;&gt;&lt;/a&gt;Creating Post&lt;/h2&gt;&lt;p&gt;Once your blog is ready creating a post is really easy. You can run this command to create an empty post.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo create post hello-world&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;This will create a new post &lt;code&gt;hello-world.md&lt;/code&gt; under &lt;code&gt;/source/_posts&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;Internally this command pick the template from &lt;code&gt;/scaffolds&lt;/code&gt;, so you can add any number of templates there. So when we say &lt;code&gt;create post&lt;/code&gt; it look for &lt;code&gt;/scaffolds/post.md&lt;/code&gt; and copy it inside &lt;code&gt;/source/_posts&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;You can edit the post now, there are &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;various option&lt;/a&gt; available for post page. But its still not published.&lt;/p&gt;
+&lt;h2 id=&quot;Generating-Static-Files&quot;&gt;&lt;a href=&quot;#Generating-Static-Files&quot; class=&quot;headerlink&quot; title=&quot;Generating Static Files&quot;&gt;&lt;/a&gt;Generating Static Files&lt;/h2&gt;&lt;p&gt;Your post is created but its still not visible on frontend. This is because we need to generate static files for it. Run the command below to generate them.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;This will read your &lt;code&gt;sources&lt;/code&gt; directory and generate posts in form of html files.&lt;/p&gt;
+&lt;h2 id=&quot;Deploying-to-Git&quot;&gt;&lt;a href=&quot;#Deploying-to-Git&quot; class=&quot;headerlink&quot; title=&quot;Deploying to Git&quot;&gt;&lt;/a&gt;Deploying to Git&lt;/h2&gt;&lt;p&gt;You can set hexo to deploy your blog to git or heroku when you need. This will require some configuration. Lets see how we can connect our Hexo blog to Github.&lt;/p&gt;
+&lt;p&gt;You will need to open &lt;code&gt;_config.yml&lt;/code&gt; configuration file. Then find &lt;code&gt;deploy&lt;/code&gt; setting. It can be empty. You need to configure it, so it will look something like this.&lt;/p&gt;
+&lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# Deployment&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;## Docs: https://hexo.io/docs/deployment.html&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;deploy:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  type:&lt;/span&gt; git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  repo:&lt;/span&gt; https://github.com/sushantdhiman/sushantdhiman.github.io.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;  branch:&lt;/span&gt; master&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;As you can see, we can even specify which branch you want to deploy. Once you have configured the settings properly, you can run command below to deploy your blog.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;With this we have learned how to use Hexo as a blog. We have just covered basic setup and there is always more to learn. You can find more useful stuff at &lt;a href=&quot;http://hexo.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo.io&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In last &lt;a href=&quot;/2016/05/15/hexo-as-blog&quot;&gt;post&lt;/a&gt; we learn how to setup a blog using &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;. Now we will see how we can configure it further.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>How to use Hexo as your blog ? (Part 1)</title>
