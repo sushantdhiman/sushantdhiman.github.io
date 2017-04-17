@@ -195,15 +195,12 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-<<<<<<< HEAD
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
    ruby 2.3.1p112
-=======
->>>>>>> 31b7eeb14c2430119f389e6e649a3f6fbc40e088
 
 BUNDLED WITH
    1.14.6

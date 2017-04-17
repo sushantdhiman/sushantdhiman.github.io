@@ -5,4 +5,4 @@ date:   2017-04-17 13:10:03 +0530
 categories: general
 
 ---
-I still migrating my blog. Will update it soon :)
+I am still migrating my blog. Will update it soon :)
