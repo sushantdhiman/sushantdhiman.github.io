@@ -1,0 +1,30 @@
+[
+  {
+    "label": "to be after (date)",
+    "url": "/assertions/date/to-be-after/"
+  },
+  {
+    "label": "to be before (date)",
+    "url": "/assertions/date/to-be-before/"
+  },
+  {
+    "label": "to be between (date)",
+    "url": "/assertions/date/to-be-between/"
+  },
+  {
+    "label": "to be same or after (date)",
+    "url": "/assertions/date/to-be-same-or-after/"
+  },
+  {
+    "label": "to be same or before (date)",
+    "url": "/assertions/date/to-be-same-or-before/"
+  },
+  {
+    "label": "to equal date (date)",
+    "url": "/assertions/date/to-equal-date/"
+  },
+  {
+    "label": "to equal time (date)",
+    "url": "/assertions/date/to-equal-time/"
+  }
+]

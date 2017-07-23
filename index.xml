@@ -6,7 +6,7 @@
     <description>Recent content in Home on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
+    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
     <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
     <lastBuildDate>Mon, 16 May 2016 00:00:00 +0000</lastBuildDate>
     
@@ -28,12 +28,27 @@ Satan told her, “You’ve been a greedy, selfish woman all your life.</descrip
       <title>About</title>
       <link>http://sushantdhiman.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/about/</guid>
       <description>Hello there, I am Sushant, currently living in Chandigarh
 I am an ECMAScript / JavaScript programmer working on Node.JS / React / Angular / Sequelize. I used to work with PHP (Laravel / Yii) initially, then found interest in Node.JS platform.
 Try to help OSS community whenever I find some spare time. I am a core contributor at Sequelize. I also contribute to node-mysql2
 This is my blog which I use to record things I am currently working on or learning.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://sushantdhiman.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <guid>http://sushantdhiman.com/projects/</guid>
+      <description>Unexpected-Date, A plugin for unexpected.js for date/time assertions
+Sequelize-Benchmark Benchmarks for Sequelize.js
+Core Contributor Sequelize ORM, Most popular ORM for Node.js
+Sequelize CLI, The Sequelize CLI
+MySQL2, Performant MySQL adapter for Node.js with prepared statements
+Contributor Unexpected.js, Beautiful Node.js test assertions
+GraphQL Sequelize Solid Sequelize + GraphQL support tools</description>
     </item>
     
   </channel>
