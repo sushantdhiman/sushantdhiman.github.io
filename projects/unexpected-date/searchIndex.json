@@ -12,12 +12,12 @@
     "url": "/assertions/date/to-be-between/"
   },
   {
-    "label": "to be same or after (date)",
-    "url": "/assertions/date/to-be-same-or-after/"
-  },
-  {
     "label": "to be same or before (date)",
     "url": "/assertions/date/to-be-same-or-before/"
+  },
+  {
+    "label": "to be same or after (date)",
+    "url": "/assertions/date/to-be-same-or-after/"
   },
   {
     "label": "to equal date (date)",
