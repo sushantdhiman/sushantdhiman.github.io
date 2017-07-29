@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
-    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
+    <webMaster>map[host:outlook.com username:sushantdhiman] (Sushant)</webMaster>
     
 	<atom:link href="http://sushantdhiman.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
