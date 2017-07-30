@@ -6,7 +6,7 @@
     <description>Recent content in Pages on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
+    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
     <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
     
 	<atom:link href="http://sushantdhiman.com/page/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>About</title>
       <link>http://sushantdhiman.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/about/</guid>
       <description>Hello there, I am Sushant, currently living in Chandigarh
 I am an ECMAScript / JavaScript programmer working on Node.JS / React / Angular / Sequelize. I used to work with PHP (Laravel / Yii) initially, then found interest in Node.JS platform.
