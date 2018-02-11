@@ -24,11 +24,11 @@
     "url": "/assertions/date/to-be-same-or-before/"
   },
   {
-    "label": "to equal time (date)",
-    "url": "/assertions/date/to-equal-time/"
-  },
-  {
     "label": "to equal date (date)",
     "url": "/assertions/date/to-equal-date/"
+  },
+  {
+    "label": "to equal time (date)",
+    "url": "/assertions/date/to-equal-time/"
   }
 ]
