@@ -27,7 +27,7 @@ Most important advancement has been in the field of communication, If some impor
       <title>Parable of Onion</title>
       <link>http://sushantdhiman.com/blog/parabel-of-onion/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
-      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/blog/parabel-of-onion/</guid>
       <description>Let talk about something spiritual. While browsing Reddit the other day I found a very interesting story that I would definitely like to share. This story is called the Parable of the Onion.
 The Story Once upon a time there was an old woman who had died and found herself in hell. She complained to Satan that her assignment to the netherworld was a mistake.
@@ -52,7 +52,7 @@ This is my blog which I use to record things I am currently working on or learni
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/projects/</guid>
-      <description>List of some open source softwares I contribute to
+      <description>List of some open source projects I contribute to
  Sequelize ORM, Most popular ORM for Node.js Sequelize CLI, The Sequelize CLI unexpected-date, A plugin for unexpected.js for date/time assertions mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
     </item>
     
