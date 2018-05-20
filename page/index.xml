@@ -6,8 +6,8 @@
     <description>Recent content in Pages on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
-    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
+    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
+    <webMaster>map[host:outlook.com username:sushantdhiman] (Sushant)</webMaster>
     
 	<atom:link href="http://sushantdhiman.com/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,7 +31,7 @@ This is my blog which I use to record things I am currently working on or learni
       <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/projects/</guid>
       <description>List of some open source projects I contribute to
- Sequelize ORM, Most popular ORM for Node.js Sequelize CLI, The Sequelize CLI unexpected-date, A plugin for unexpected.js for date/time assertions mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
+ Sequelize, Most popular ORM for Node.js Sequelize CLI, The Sequelize CLI unexpected-date, A plugin for unexpected.js for date/time assertions mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
     </item>
     
   </channel>
