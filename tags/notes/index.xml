@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Sushant</title>
+    <link>http://sushantdhiman.com/tags/notes/</link>
+    <description>Recent content in Notes on Sushant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
+    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
+    <lastBuildDate>Sun, 11 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sushantdhiman.com/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diminishing capability</title>
+      <link>http://sushantdhiman.com/blog/diminishing-capability/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <guid>http://sushantdhiman.com/blog/diminishing-capability/</guid>
+      <description>With advancement in technology humans have achieved so much. Technology took us to the moon, now we are pushing further into space. Destinations which used to take many days to reach, now can be covered in matter of hours.
+Most important advancement has been in the field of communication, If some important incident happens in USA, I will usually hear about it in news, even though there is 12 hour timezone gap.</description>
+    </item>
+    
+  </channel>
+</rss>
