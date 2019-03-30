@@ -31,7 +31,7 @@ This is my blog which I use to record things I am currently working on or learni
       <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/projects/</guid>
       <description>List of some open source projects I contribute to
- Sequelize, Most popular ORM for Node.js Sequelize CLI, The Sequelize CLI unexpected-date, A plugin for unexpected.js for date/time assertions mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
+ Sequelize, Most popular ORM for Node.js unexpected-date, A plugin for unexpected.js for date/time assertions sequelize-pool, Resource pool implementation mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
     </item>
     
   </channel>

@@ -28,7 +28,7 @@ There was an interesting thing about this student teacher pair. Every toy that t
       <title>Diminishing capability</title>
       <link>http://sushantdhiman.com/blog/diminishing-capability/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/blog/diminishing-capability/</guid>
       <description>With advancement in technology humans have achieved so much. Technology took us to the moon, now we are pushing further into space. Destinations which used to take many days to reach, now can be covered in matter of hours.
 Most important advancement has been in the field of communication, If some important incident happens in USA, I will usually hear about it in news, even though there is 12 hour timezone gap.</description>
@@ -38,7 +38,7 @@ Most important advancement has been in the field of communication, If some impor
       <title>Parable of Onion</title>
       <link>http://sushantdhiman.com/blog/parabel-of-onion/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/blog/parabel-of-onion/</guid>
       <description>Let talk about something spiritual. While browsing Reddit the other day I found a very interesting story that I would definitely like to share. This story is called the Parable of the Onion.
 The Story Once upon a time there was an old woman who had died and found herself in hell. She complained to Satan that her assignment to the netherworld was a mistake.
@@ -61,10 +61,10 @@ This is my blog which I use to record things I am currently working on or learni
       <title>Projects</title>
       <link>http://sushantdhiman.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
       <guid>http://sushantdhiman.com/projects/</guid>
       <description>List of some open source projects I contribute to
- Sequelize, Most popular ORM for Node.js Sequelize CLI, The Sequelize CLI unexpected-date, A plugin for unexpected.js for date/time assertions mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
+ Sequelize, Most popular ORM for Node.js unexpected-date, A plugin for unexpected.js for date/time assertions sequelize-pool, Resource pool implementation mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
     </item>
     
   </channel>
