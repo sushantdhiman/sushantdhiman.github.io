@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>http://sushantdhiman.com/blog/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://sushantdhiman.com/blog/price/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,7 +24,28 @@
   </url>
   
   <url>
+    <loc>http://sushantdhiman.com/tags/story/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://sushantdhiman.com/tags/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://sushantdhiman.com/blog/diminishing-capability/</loc>
+    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://sushantdhiman.com/tags/notes/</loc>
     <lastmod>2018-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,49 +65,21 @@
   </url>
   
   <url>
-    <loc>http://sushantdhiman.com/blog/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://sushantdhiman.com/categories/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sushantdhiman.com/tags/notes/</loc>
-    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://sushantdhiman.com/page/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://sushantdhiman.com/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://sushantdhiman.com/tags/story/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sushantdhiman.com/tags/</loc>
-    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
 </urlset>

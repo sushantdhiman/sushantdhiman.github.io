@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Story on Sushant</title>
+    <title>story on Sushant</title>
     <link>http://sushantdhiman.com/tags/story/</link>
-    <description>Recent content in Story on Sushant</description>
+    <description>Recent content in story on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
-    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
+    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
+    <webMaster>map[host:outlook.com username:sushantdhiman] (Sushant)</webMaster>
     <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://sushantdhiman.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Price</title>
       <link>http://sushantdhiman.com/blog/price/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/blog/price/</guid>
       <description>Yet another short story, I remembered this evening.
 The Story Once there was a teacher who used to make mud toys. He also had one student, who was learning this art from him. Both used to make mud toys and sell them in market. This is how they made their living.
@@ -28,7 +28,7 @@ There was an interesting thing about this student teacher pair. Every toy that t
       <title>Parable of Onion</title>
       <link>http://sushantdhiman.com/blog/parabel-of-onion/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/blog/parabel-of-onion/</guid>
       <description>Let talk about something spiritual. While browsing Reddit the other day I found a very interesting story that I would definitely like to share. This story is called the Parable of the Onion.
 The Story Once upon a time there was an old woman who had died and found herself in hell. She complained to Satan that her assignment to the netherworld was a mistake.

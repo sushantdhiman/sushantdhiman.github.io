@@ -6,8 +6,8 @@
     <description>Recent content in Pages on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
-    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
+    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
+    <webMaster>map[host:outlook.com username:sushantdhiman] (Sushant)</webMaster>
     
 	<atom:link href="http://sushantdhiman.com/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
       <title>About</title>
       <link>http://sushantdhiman.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/about/</guid>
       <description>Hello there, I am Sushant, currently living in Chandigarh
 Full stack developer working with Node.JS / React / Sequelize / GraphQL mainly. In past I have used Ember.js / Angular.js / Yii / Laravel to develop many web apps.
@@ -28,10 +28,10 @@ This is my blog which I use to record things I am currently working on or learni
       <title>Projects</title>
       <link>http://sushantdhiman.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
       <guid>http://sushantdhiman.com/projects/</guid>
       <description>List of some open source projects I contribute to
- Sequelize, Most popular ORM for Node.js unexpected-date, A plugin for unexpected.js for date/time assertions sequelize-pool, Resource pool implementation mysql2, Performant MySQL adapter for Node.js with prepared statements unexpected.js, Beautiful Node.js test assertions graphql-sequelize Solid Sequelize + GraphQL support tools  </description>
+ Sequelize, Most popular ORM for Node.js Sequelize Pool, Resource pool implementation Unexpected Date, A plugin for unexpected.js for date/time assertions  You can find more projects on my Github profile.</description>
     </item>
     
   </channel>

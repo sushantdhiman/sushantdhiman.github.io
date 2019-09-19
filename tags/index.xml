@@ -6,28 +6,28 @@
     <description>Recent content in Tags on Sushant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>map[username:sushantdhiman host:outlook.com] (Sushant)</managingEditor>
-    <webMaster>map[username:sushantdhiman host:outlook.com] (Sushant)</webMaster>
-    <lastBuildDate>Sun, 11 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <managingEditor>map[host:outlook.com username:sushantdhiman] (Sushant)</managingEditor>
+    <webMaster>map[host:outlook.com username:sushantdhiman] (Sushant)</webMaster>
+    <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://sushantdhiman.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Notes</title>
-      <link>http://sushantdhiman.com/tags/notes/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
-      <guid>http://sushantdhiman.com/tags/notes/</guid>
+      <title>story</title>
+      <link>http://sushantdhiman.com/tags/story/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <guid>http://sushantdhiman.com/tags/story/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Story</title>
-      <link>http://sushantdhiman.com/tags/story/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <author>map[username:sushantdhiman host:outlook.com] (Sushant)</author>
-      <guid>http://sushantdhiman.com/tags/story/</guid>
+      <title>notes</title>
+      <link>http://sushantdhiman.com/tags/notes/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <author>map[host:outlook.com username:sushantdhiman] (Sushant)</author>
+      <guid>http://sushantdhiman.com/tags/notes/</guid>
       <description></description>
     </item>
     

@@ -1,11 +1,11 @@
 [
   {
-    "label": "to be after (date)",
-    "url": "/assertions/date/to-be-after/"
-  },
-  {
     "label": "to be before (date)",
     "url": "/assertions/date/to-be-before/"
+  },
+  {
+    "label": "to be after (date)",
+    "url": "/assertions/date/to-be-after/"
   },
   {
     "label": "to be between (date)",
