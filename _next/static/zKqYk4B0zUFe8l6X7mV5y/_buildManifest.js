@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {"/blog/diminishing-capability":[a],"/blog/parabel-of-onion":[a],"/blog/price":[a]}}("static\u002Fchunks\u002F55a24efd45fc9b3ed9b703bc979b891c25b2e3a2.e2f1f68e875bf08b9024.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
