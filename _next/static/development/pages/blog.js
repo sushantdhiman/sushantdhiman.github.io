@@ -4837,13 +4837,6 @@ function BlogIndex() {
       lineNumber: 7,
       columnNumber: 5
     }
-  }, __jsx("ul", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 7
-    }
   }, [{
     title: "Price",
     date: "2018-06-24T00:00:00Z",
@@ -4857,79 +4850,71 @@ function BlogIndex() {
     date: "2016-05-16T00:00:00Z",
     href: "/blog/parabel-of-onion"
   }].map(function (payload) {
-    return __jsx("li", {
+    return __jsx("div", {
       key: payload.title,
-      className: "my-3",
+      className: "row align-items-center",
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 21,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "col col-5 col-md-4",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 22,
         columnNumber: 11
       }
-    }, __jsx("div", {
-      className: "row align-items-center",
+    }, __jsx("span", {
+      className: "d-none d-md-inline-block badge badge-info mr-2 ",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 23,
         columnNumber: 13
       }
-    }, __jsx("div", {
-      className: "col col-3 ",
-      __self: _this,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 24,
-        columnNumber: 15
-      }
-    }, __jsx("span", {
-      className: "badge badge-info mr-2",
-      __self: _this,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 25,
-        columnNumber: 17
-      }
     }, "Posted on "), __jsx("span", {
       className: "text-success",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 26,
-        columnNumber: 17
+        lineNumber: 24,
+        columnNumber: 13
       }
     }, new Date(payload.date).toDateString())), __jsx("div", {
-      className: "col col-auto",
+      className: "col col-md-auto",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 30,
-        columnNumber: 15
+        lineNumber: 28,
+        columnNumber: 11
       }
     }, __jsx("h3", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31,
-        columnNumber: 17
+        lineNumber: 29,
+        columnNumber: 13
       }
     }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
       href: payload.href,
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32,
-        columnNumber: 19
+        lineNumber: 30,
+        columnNumber: 15
       }
     }, __jsx("a", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 33,
-        columnNumber: 21
+        lineNumber: 31,
+        columnNumber: 17
       }
-    }, payload.title))))));
-  })));
+    }, payload.title)))));
+  }));
 }
 
 /***/ }),
