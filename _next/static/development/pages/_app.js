@@ -3232,6 +3232,126 @@ exports.svgPathData = svgPathData;
 
 /***/ }),
 
+/***/ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowDown.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@fortawesome/free-solid-svg-icons/faArrowDown.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fas';
+var iconName = 'arrow-down';
+var width = 448;
+var height = 512;
+var ligatures = [];
+var unicode = 'f063';
+var svgPathData = 'M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+
+exports.faArrowDown = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowLeft.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@fortawesome/free-solid-svg-icons/faArrowLeft.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fas';
+var iconName = 'arrow-left';
+var width = 448;
+var height = 512;
+var ligatures = [];
+var unicode = 'f060';
+var svgPathData = 'M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+
+exports.faArrowLeft = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowUp.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@fortawesome/free-solid-svg-icons/faArrowUp.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fas';
+var iconName = 'arrow-up';
+var width = 448;
+var height = 512;
+var ligatures = [];
+var unicode = 'f062';
+var svgPathData = 'M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+
+exports.faArrowUp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;
+
+/***/ }),
+
 /***/ "./node_modules/@fortawesome/free-solid-svg-icons/faEnvelope.js":
 /*!**********************************************************************!*\
   !*** ./node_modules/@fortawesome/free-solid-svg-icons/faEnvelope.js ***!
@@ -4042,7 +4162,7 @@ exports.push([module.i, "@charset \"UTF-8\";\n/*!\n * Bootstrap v4.4.1 (https://
 
 exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(true);
 // Module
-exports.push([module.i, ".Navigation_brand__YQvuk {\n  color: var(--light) !important;\n}\n\n.Navigation_navbar__cwtdx .nav-link {\n  cursor: pointer;\n  padding: 0px;\n  margin: 0.5rem 0.2rem;\n}\n\n.Navigation_navbar__cwtdx .nav-link svg {\n  width: 16px;\n  height: 16px;\n  transition: transform .2s;\n}\n\n.Navigation_navbar__cwtdx .nav-link:hover svg {\n  transform: scale(1.5);\n}\n\n.Navigation_navbar__cwtdx .active {\n  border-bottom: 2px solid var(--light);\n}\n\n@media (max-width: 768px) {\n  .Navigation_navbar__cwtdx .active {\n    border-bottom: none;\n  }\n}\n\n\n", "",{"version":3,"sources":["/var/projects/oss/sushantdhiman.com/src/shared/components/Navigation/index.module.css"],"names":[],"mappings":"AAAA;EACE,8BAA8B;AAChC;;AAEA;EACE,eAAe;EACf,YAAY;EACZ,qBAAqB;AACvB;;AAEA;EACE,WAAW;EACX,YAAY;EACZ,yBAAyB;AAC3B;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,qCAAqC;AACvC;;AAEA;EACE;IACE,mBAAmB;EACrB;AACF","file":"index.module.css","sourcesContent":[".brand {\n  color: var(--light) !important;\n}\n\n.navbar :global(.nav-link) {\n  cursor: pointer;\n  padding: 0px;\n  margin: 0.5rem 0.2rem;\n}\n\n.navbar :global(.nav-link) svg {\n  width: 16px;\n  height: 16px;\n  transition: transform .2s;\n}\n\n.navbar :global(.nav-link):hover svg {\n  transform: scale(1.5);\n}\n\n.navbar :global(.active) {\n  border-bottom: 2px solid var(--light);\n}\n\n@media (max-width: 768px) {\n  .navbar :global(.active) {\n    border-bottom: none;\n  }\n}\n\n\n"]}]);
+exports.push([module.i, ".Navigation_brand__YQvuk {\n  color: var(--light) !important;\n  font-size: 24px;\n}\n\n.Navigation_navbar__cwtdx .nav-link {\n  cursor: pointer;\n  padding: 0px;\n  margin: 0.5rem 0.2rem;\n}\n\n.Navigation_navbar__cwtdx .nav-link svg {\n  width: 16px;\n  height: 16px;\n  transition: transform 0.2s;\n}\n\n.Navigation_navbar__cwtdx .nav-link:hover svg {\n  transform: scale(1.5);\n}\n\n.Navigation_navbar__cwtdx .active {\n  border-bottom: 2px solid var(--light);\n}\n\n@media (max-width: 768px) {\n  .Navigation_navbar__cwtdx .active {\n    border-bottom: none;\n  }\n}\n", "",{"version":3,"sources":["/var/projects/oss/sushantdhiman.com/src/shared/components/Navigation/index.module.css"],"names":[],"mappings":"AAAA;EACE,8BAA8B;EAC9B,eAAe;AACjB;;AAEA;EACE,eAAe;EACf,YAAY;EACZ,qBAAqB;AACvB;;AAEA;EACE,WAAW;EACX,YAAY;EACZ,0BAA0B;AAC5B;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,qCAAqC;AACvC;;AAEA;EACE;IACE,mBAAmB;EACrB;AACF","file":"index.module.css","sourcesContent":[".brand {\n  color: var(--light) !important;\n  font-size: 24px;\n}\n\n.navbar :global(.nav-link) {\n  cursor: pointer;\n  padding: 0px;\n  margin: 0.5rem 0.2rem;\n}\n\n.navbar :global(.nav-link) svg {\n  width: 16px;\n  height: 16px;\n  transition: transform 0.2s;\n}\n\n.navbar :global(.nav-link):hover svg {\n  transform: scale(1.5);\n}\n\n.navbar :global(.active) {\n  border-bottom: 2px solid var(--light);\n}\n\n@media (max-width: 768px) {\n  .navbar :global(.active) {\n    border-bottom: none;\n  }\n}\n"]}]);
 // Exports
 exports.locals = {
 	"brand": "Navigation_brand__YQvuk",
@@ -23406,13 +23526,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_free_solid_svg_icons_faEnvelope__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons_faEnvelope__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _fortawesome_free_solid_svg_icons_faExternalLinkAlt__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons/faExternalLinkAlt */ "./node_modules/@fortawesome/free-solid-svg-icons/faExternalLinkAlt.js");
 /* harmony import */ var _fortawesome_free_solid_svg_icons_faExternalLinkAlt__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons_faExternalLinkAlt__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowLeft__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons/faArrowLeft */ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowLeft.js");
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowLeft__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons_faArrowLeft__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowDown__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons/faArrowDown */ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowDown.js");
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowDown__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons_faArrowDown__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowUp__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons/faArrowUp */ "./node_modules/@fortawesome/free-solid-svg-icons/faArrowUp.js");
+/* harmony import */ var _fortawesome_free_solid_svg_icons_faArrowUp__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons_faArrowUp__WEBPACK_IMPORTED_MODULE_8__);
 
 
 
 
 
 
-_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__["library"].add(_fortawesome_free_brands_svg_icons_faGitlab__WEBPACK_IMPORTED_MODULE_3__["faGitlab"], _fortawesome_free_brands_svg_icons_faLinkedin__WEBPACK_IMPORTED_MODULE_2__["faLinkedin"], _fortawesome_free_brands_svg_icons_faGithub__WEBPACK_IMPORTED_MODULE_1__["faGithub"], _fortawesome_free_solid_svg_icons_faEnvelope__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons_faExternalLinkAlt__WEBPACK_IMPORTED_MODULE_5__["faExternalLinkAlt"]);
+
+
+
+_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__["library"].add(_fortawesome_free_brands_svg_icons_faGitlab__WEBPACK_IMPORTED_MODULE_3__["faGitlab"], _fortawesome_free_brands_svg_icons_faLinkedin__WEBPACK_IMPORTED_MODULE_2__["faLinkedin"], _fortawesome_free_brands_svg_icons_faGithub__WEBPACK_IMPORTED_MODULE_1__["faGithub"], _fortawesome_free_solid_svg_icons_faEnvelope__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons_faExternalLinkAlt__WEBPACK_IMPORTED_MODULE_5__["faExternalLinkAlt"], _fortawesome_free_solid_svg_icons_faArrowLeft__WEBPACK_IMPORTED_MODULE_6__["faArrowLeft"], _fortawesome_free_solid_svg_icons_faArrowDown__WEBPACK_IMPORTED_MODULE_7__["faArrowDown"], _fortawesome_free_solid_svg_icons_faArrowUp__WEBPACK_IMPORTED_MODULE_8__["faArrowUp"]);
 
 /***/ }),
 
@@ -23472,7 +23601,15 @@ function Layout(_ref) {
       lineNumber: 18,
       columnNumber: 7
     }
-  }, children));
+  }, children), __jsx("div", {
+    className: "position-fixed fixed-bottom d-none d-md-block p-2",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, "\xA9 2016 - ", new Date().getFullYear()));
 }
 
 function MainApp(_ref2) {
@@ -23482,14 +23619,14 @@ function MainApp(_ref2) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25,
+      lineNumber: 28,
       columnNumber: 5
     }
   }, __jsx(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, pageProps, {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26,
+      lineNumber: 29,
       columnNumber: 7
     }
   })));

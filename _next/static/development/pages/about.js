@@ -7893,7 +7893,7 @@ function Page(_ref) {
       children = _ref.children,
       className = _ref.className;
   return __jsx("div", {
-    className: classnames__WEBPACK_IMPORTED_MODULE_1___default()("mt-3", className),
+    className: classnames__WEBPACK_IMPORTED_MODULE_1___default()("my-3", className),
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -7915,10 +7915,7 @@ function Page(_ref) {
       columnNumber: 9
     }
   }, "Sushantdhiman.com - ", title)), __jsx("h2", {
-    style: {
-      textDecoration: "underline"
-    },
-    className: "text-center text-primary",
+    className: "my-3 text-center text-info",
     __self: this,
     __source: {
       fileName: _jsxFileName,

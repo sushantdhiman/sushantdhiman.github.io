@@ -4875,12 +4875,12 @@ function BlogIndex() {
         lineNumber: 23,
         columnNumber: 13
       }
-    }, "Posted on "), __jsx("span", {
+    }, "Posted on", " "), __jsx("span", {
       className: "text-success",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24,
+        lineNumber: 26,
         columnNumber: 13
       }
     }, new Date(payload.date).toDateString())), __jsx("div", {
@@ -4888,14 +4888,14 @@ function BlogIndex() {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 28,
+        lineNumber: 30,
         columnNumber: 11
       }
     }, __jsx("h3", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 29,
+        lineNumber: 31,
         columnNumber: 13
       }
     }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -4903,14 +4903,14 @@ function BlogIndex() {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 30,
+        lineNumber: 32,
         columnNumber: 15
       }
     }, __jsx("a", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31,
+        lineNumber: 33,
         columnNumber: 17
       }
     }, payload.title)))));
@@ -4945,7 +4945,7 @@ function Page(_ref) {
       children = _ref.children,
       className = _ref.className;
   return __jsx("div", {
-    className: classnames__WEBPACK_IMPORTED_MODULE_1___default()("mt-3", className),
+    className: classnames__WEBPACK_IMPORTED_MODULE_1___default()("my-3", className),
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4967,10 +4967,7 @@ function Page(_ref) {
       columnNumber: 9
     }
   }, "Sushantdhiman.com - ", title)), __jsx("h2", {
-    style: {
-      textDecoration: "underline"
-    },
-    className: "text-center text-primary",
+    className: "my-3 text-center text-info",
     __self: this,
     __source: {
       fileName: _jsxFileName,
