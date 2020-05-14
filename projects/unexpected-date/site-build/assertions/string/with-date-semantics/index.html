@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+    <link rel="stylesheet" href="../../../static/normalize.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../../../static/main.css" type="text/css" media="screen" />
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="../../../static/bug-icon-black.ico">
+    <title>with date semantics (string)</title>
+</head>
+<body class="sidebar-hidden has-sidebar">
+    <header>
+        <div class="logo-icon"></div>
+        <nav>
+            <ul>
+                <li class="menu-toggle-item">
+                    <button class="menu-toggle" onclick="toggleSidebar()"></button>
+                </li>
+                
+                <li class=""><a href="../../../">unexpected-date</a></li>
+                
+                
+                <li class="active"><a href="../../date/to-be-after/">Assertions</a></li>
+                
+                
+                
+            </ul>
+        </nav>
+        <div class="search" style="visibility: hidden">
+            <input id="search" placeholder="Search..." value="">
+            <div id="searchDropDown" class="dropDown">
+                <ul id="searchResults"></ul>
+            </div>
+        </div>
+    </header>
+
+<section id="assertions">
+    <nav id="assertion-menu" class="sidebar js-remember-scroll-position">
+    
+        <h3 class=""><a href="../../date/">date</a></h3>
+        <ul>
+            
+            <li class="">
+                <a href="../../date/to-be-after/">to be after</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-be-before/">to be before</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-be-between/">to be between</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-be-close-to/">to be close to</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-be-same-or-after/">to be same or after</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-be-same-or-before/">to be same or before</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-equal-date/">to equal date</a>
+            </li>
+            
+            <li class="">
+                <a href="../../date/to-equal-time/">to equal time</a>
+            </li>
+            
+        </ul>
+    
+        <h3 class=""><a href="../">string</a></h3>
+        <ul>
+            
+            <li class="active">
+                <a href="./">with date semantics</a>
+            </li>
+            
+        </ul>
+    
+</nav>
+
+    <div class="main" tabindex="-1">
+        <div class="content">
+            
+                <h1>with date semantics</h1>
+                <ul class="declarations">
+                
+                    <li>&lt;string&gt; with date semantics &lt;assertion?&gt;</li>
+                
+                </ul>
+            
+            <p>Converts a string to <code>Date</code>, then delegates to another
+assertion.</p>
+<p>The purpose is to make the assertions defined for <code>Date</code> instances easily
+accessible when you need to make assertions about a string as date.</p>
+<div class="code lang-javascript"><div><span style="color: #000000">expect</span><span style="color: #000000">(</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;2010-11-10T00:00:00.000Z&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;with&nbsp;date&nbsp;semantics&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;to&nbsp;satisfy&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #a71d5d">new</span>&nbsp;Date<span style="color: #000000">(</span>Date<span style="color: #000000">.</span><span style="color: #0086b3">UTC</span><span style="color: #000000">(</span><span style="color: #0086b3">2010</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">10</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">10</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">))</span></div><div><span style="color: #000000">);</span></div></div><div class="code lang-javascript"><div><span style="color: #000000">expect</span><span style="color: #000000">(</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;2010-11-10T10:00:00.000Z&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;with&nbsp;date&nbsp;semantics&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #df5000">&quot;to&nbsp;be&nbsp;after&quot;</span><span style="color: #000000">,</span></div><div>&nbsp;&nbsp;<span style="color: #a71d5d">new</span>&nbsp;Date<span style="color: #000000">(</span>Date<span style="color: #000000">.</span><span style="color: #0086b3">UTC</span><span style="color: #000000">(</span><span style="color: #0086b3">2010</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">10</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">10</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">,</span>&nbsp;<span style="color: #0086b3">0</span><span style="color: #000000">))</span></div><div><span style="color: #000000">);</span></div></div>
+        </div>
+    </div>
+</section>
+<script type="text/javascript">
+    baseUrl = '../../..';
+</script>
+<script type="text/javascript" src="../../../static/toggleSidebar.js"></script>
+<script type="text/javascript" src="../../../static/rememberScrollPosition.js"></script>
+<script type="text/javascript" src="../../../static/focusMain.js"></script>
+<script type="text/javascript" src="../../../static/search.js"></script>
+</body>
+</html>
+
