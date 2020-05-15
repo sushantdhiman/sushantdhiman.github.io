@@ -4,12 +4,12 @@
     "url": "/assertions/date/to-be-after/"
   },
   {
-    "label": "to be before (date)",
-    "url": "/assertions/date/to-be-before/"
-  },
-  {
     "label": "to be between (date)",
     "url": "/assertions/date/to-be-between/"
+  },
+  {
+    "label": "to be before (date)",
+    "url": "/assertions/date/to-be-before/"
   },
   {
     "label": "to be close to (date)",
