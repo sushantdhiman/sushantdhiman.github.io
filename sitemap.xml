@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://sushantdhiman.com</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/about</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/2020/vscode-to-neovim</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/2021/how-to-backup-imap-emails</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/2021/odoo-dual-currency-invoice</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/2022/blind-city-of-the-blind-king</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/2022/continuous-deployment-of-google-cloud-functions-written-with-typescript</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/diminishing-capability</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/parabel-of-onion</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/blog/price</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sushantdhiman.com/projects</loc><lastmod>2022-08-13T11:37:47.644Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
